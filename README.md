@@ -2,12 +2,12 @@
 
 ## Bloque 1
 
--Función decimalBinari.
--Función binariDecimal.
--Función esParell.
--Función pares de 0 a n.
+-Función decimalBinari.  
+-Función binariDecimal.  
+-Función esParell.  
+-Función pares de 0 a n.  
 
 ## Bloque 2
 
--Función volumCilindre.
--Función volumPrismaRectangular.
+-Función volumCilindre.  
+-Función volumPrismaRectangular.  
