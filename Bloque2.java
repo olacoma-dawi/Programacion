@@ -39,7 +39,7 @@ public class Bloque2 {
         }
         System.out.println("\nQuants metres cúbics hem de transportar?");
         volumNecessari = sc.nextDouble();
-        System.out.println("\nEl camió té capacitat per " + volumDisponible + "centímetres cúbics.");
+        System.out.printf("\nEl camió té capacitat per %.2f centímetres cúbics.\n", volumDisponible);
         System.out.println("Hi caben " + volumDisponible / 1000000 + " metres cúbics.");
         System.out.println("Has de fer " + (int)Math.ceil(volumNecessari / (volumDisponible/1000000)) + " viatges");
 
